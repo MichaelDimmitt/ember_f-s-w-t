@@ -33,22 +33,17 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember test`
 * `ember test --server`
 
-### Linting
-
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
 ### Building
 
 * `ember build` (development)
 * `ember build --environment production` (production)
 
 ### Deploying
-
+** To Do **
 Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
-
+* [quickstart guide] (https://guides.emberjs.com/release/getting-started/quick-start/)
 * [ember.js](https://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * Development Browser Extensions
