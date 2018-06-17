@@ -30,10 +30,12 @@ You will need the following things properly installed on your computer.
 * `cd ember-f-s-w-t`
 * `npm install`
 
+
 ## Running / Development
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
+* Recommended: to see a network request at work! [http://localhost:4200/scientists](http://localhost:4200/scientists)
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
 ### Code Generators
