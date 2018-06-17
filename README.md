@@ -1,9 +1,21 @@
 # ember-f-s-w-t
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Ensure always up to date. Ember from scratch with testing.
+</b>The first three projects that I tried to clone and run did not work out of the box ...
 
-## Prerequisites
+I will be working using [npm-check-updates](https://stackoverflow.com/a/16074029/5283424).
+<br/>The goal being do not even let major verions stop you from upgrading. Always be bleeding edge.
+<br/>However, this will be a lot of manual upgrading.
+<br/>I will script the npm-check-updates to change the package json to the * syntax and run the command automatically.
+
+I plan to integrate another project that is still very much in beta [under the dome](https://github.com/MichaelDimmitt/under_the_dome)
+<br/>[under the dome](https://github.com/MichaelDimmitt/under_the_dome) has a dependency of good testing in order to work.
+
+Hopefully all goes well 😋  .
+
+This project should help with that. 
+I will have a package-lock branch. 
+All package-lock branches are gaurenteed to work.
 
 You will need the following things properly installed on your computer.
 
